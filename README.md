@@ -28,7 +28,7 @@ and then disconnect from the internet and try to update the news list by sliding
 The last news list that you obtained when you updated will be reloaded and to update the list you must 
 obviously reconnect to the internet.
 
-<img src="https://firebasestorage.googleapis.com/v0/b/portafolio-e509e.appspot.com/o/1.gif?alt=media&token=e0fb76a3-8925-4a3a-90fb-d857e6f09c0e" width="100" height="150" />
+https://firebasestorage.googleapis.com/v0/b/portafolio-e509e.appspot.com/o/1.gif?alt=media&token=e0fb76a3-8925-4a3a-90fb-d857e6f09c0e
 
 <img src="https://firebasestorage.googleapis.com/v0/b/portafolio-e509e.appspot.com/o/2.gif?alt=media&token=331e7dbd-2811-4138-bace-cc685688b419" width="100" height="150" />
 
