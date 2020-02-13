@@ -28,10 +28,13 @@ and then disconnect from the internet and try to update the news list by sliding
 The last news list that you obtained when you updated will be reloaded and to update the list you must 
 obviously reconnect to the internet.
 
+First GIF (exceeded the limit of 5 mb)
 https://firebasestorage.googleapis.com/v0/b/portafolio-e509e.appspot.com/o/1.gif?alt=media&token=e0fb76a3-8925-4a3a-90fb-d857e6f09c0e
 
+Second GIF
 <img src="https://firebasestorage.googleapis.com/v0/b/portafolio-e509e.appspot.com/o/2.gif?alt=media&token=331e7dbd-2811-4138-bace-cc685688b419" width="100" height="150" />
 
+Third GIF
 <img src="https://firebasestorage.googleapis.com/v0/b/portafolio-e509e.appspot.com/o/3.gif?alt=media&token=165d50d8-1c9a-4313-8d69-2b697a0f6770" width="100" height="150" />
 
 To install the app you just have to download the project, open it in android studio and run it in emulator or on your own smartphone, try to be connected to the internet.
